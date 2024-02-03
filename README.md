@@ -1,5 +1,3 @@
-# Software_Controle_Doen-as_Bairro
-
 # 🩺 Sickstem - Sistema para Monitoramento de Doenças por Bairro
 
 ## 📃 Sobre o Sistema:
@@ -13,11 +11,11 @@ para fornecer uma visão abrangente do panorama de saúde da comunidade.
 
 ## 📐 Diagrama Conceitual ER:
 
-![Diagrama ER](img/ER-SICKSTEM.png)
+![Diagrama ER](Sickstem/img/ER-SICKSTEM.png)
 
 ## 🧮 Modelo Lógico:
 
-![Modelo Lógico](img/Modelo-Logico.png)
+![Modelo Lógico](Sickstem/img/Modelo-Logico.png)
 
 ## 📄 Script de Criação do Banco de Dados:
 ``` sql
@@ -187,13 +185,13 @@ Para visualizar os scripts de povoamento e os determinados requisitos do sistema
 
 ## 🖥️ Conheça nosso sistema:
 
-![Home Page](img/tela_inicial.png)
+![Home Page](Sickstem/img/tela_inicial.png)
 
-![Dashboard](img/tela_dashboard.png)
+![Dashboard](Sickstem/img/tela_dashboard.png)
 
-![Tela de Login](img/tela_login.png)
+![Tela de Login](Sickstem/img/tela_login.png)
 
-![Tela de Cadastro Agente](img/tela_cadastro.png)
+![Tela de Cadastro Agente](Sickstem/img/tela_cadastro.png)
 
 ## ✍️ Autores:
 
